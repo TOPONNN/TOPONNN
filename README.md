@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B+I'm+TOPONNN;Full-Stack+Developer+from+Seoul+%F0%9F%87%B0%F0%9F%87%B7;Building+awesome+things+with+code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+TOPONNN;Full-Stack+Developer+from+Seoul;Building+awesome+things+with+code)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,7 +14,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" /> About Me
+## About Me
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png" alt="Unicorn" width="150" />
 
@@ -41,7 +41,7 @@ const TOPONNN = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const TOPONNN = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -113,16 +113,16 @@ const TOPONNN = {
 ### PLYST
 **Playlist + List = PLYST**
 
-음악을 함께 듣고, 공유하고, 소통하는 음악 커뮤니티 플랫폼
+Music community platform for sharing and enjoying music together
 
 <br/>
 
 **Key Features**
-- **플레이리스트** - Spotify 연동, 생성/공유/검색
-- **AI 추천** - ChatGPT 기반 맞춤 음악 추천
-- **스테이션** - 실시간 동시 감상 & 채팅
-- **소셜** - 좋아요, 댓글, 팔로우
-- **자막** - Whisper AI 실시간 번역
+- **Playlist** - Spotify integration, Create/Share/Search
+- **AI Recommend** - ChatGPT-based personalized recommendations
+- **Station** - Real-time synchronized viewing & chat
+- **Social** - Likes, Comments, Follow
+- **Subtitles** - Whisper AI real-time translation
 
 </td>
 <td width="50%">
@@ -131,22 +131,22 @@ const TOPONNN = {
 
 **Frontend**
 ```
-React · TypeScript · Vite · Tailwind · Shadcn UI
+React + TypeScript + Vite + Tailwind + Shadcn UI
 ```
 
 **Backend**
 ```
-Java 21 · Spring Boot 3 · JPA · WebSocket
+Java 21 + Spring Boot 3 + JPA + WebSocket
 ```
 
 **Infra**
 ```
-MySQL · Docker · AWS EC2 · Nginx
+MySQL + Docker + AWS EC2 + Nginx
 ```
 
 **APIs**
 ```
-Spotify · YouTube · OpenAI GPT · Whisper
+Spotify + YouTube + OpenAI GPT + Whisper
 ```
 
 </td>
@@ -162,54 +162,52 @@ Spotify · YouTube · OpenAI GPT · Whisper
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="30" /> GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TOPONNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=ffffff&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=TOPONNN&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff" alt="Top Languages"/>
+<a href="https://github.com/TOPONNN">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff"/>
+</a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="30" /> 2026 Goals
+## 2026 Goals
 
 <div align="center">
 
 | Goal | Status | Progress |
 |:---|:---:|:---:|
-| PLYST 플랫폼 런칭 | Done | ![100%](https://progress-bar.dev/100/?width=150&color=8B5CF6) |
-| Spring Boot 마스터 | In Progress | ![80%](https://progress-bar.dev/80/?width=150&color=EC4899) |
-| React 고급 패턴 | In Progress | ![70%](https://progress-bar.dev/70/?width=150&color=8B5CF6) |
-| AWS Solutions Architect | In Progress | ![50%](https://progress-bar.dev/50/?width=150&color=EC4899) |
-| Kubernetes 학습 | Planned | ![20%](https://progress-bar.dev/20/?width=150&color=8B5CF6) |
+| PLYST Platform Launch | DONE | `####################` 100% |
+| Spring Boot Master | IN PROGRESS | `################----` 80% |
+| React Advanced Patterns | IN PROGRESS | `##############------` 70% |
+| AWS Solutions Architect | IN PROGRESS | `##########----------` 50% |
+| Kubernetes Learning | PLANNED | `####----------------` 20% |
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="30" /> Fun Facts
+## Fun Facts
 
 <div align="center">
 
-```text
-Night Owl Developer        ████████████████████░░   90%
-Coffee Consumption         ███████████████████████  99%
-Music While Coding         ████████████████████░░   90%
-Bug Fixing Speed           ███████████████░░░░░░░   65%
-Documentation Skills       ████████░░░░░░░░░░░░░░   40%
+```
+ Night Owl Developer   [####################]  90%
+ Coffee Consumption    [######################] 99%
+ Music While Coding    [####################]  90%
+ Bug Fixing Speed      [###############-----]  65%
+ Documentation Skills  [########------------]  40%
 ```
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="30" /> Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -225,10 +223,6 @@ Documentation Skills       ████████░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="40" />
 
 ### Thanks for visiting! Have a great day!
-
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs)
 
 </div>
 
