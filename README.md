@@ -22,7 +22,7 @@
 | **Role** | Full-Stack Developer |
 | **Education** | Cloud DevOps Fullstack Developer Camp |
 | **Current Project** | [PLYST](https://github.com/TOPONNN/PLYST) - Music Community Platform |
-| **Interests** | Coding, Music, Gaming |
+| **Interests** | Coding, Music |
 
 ---
 
