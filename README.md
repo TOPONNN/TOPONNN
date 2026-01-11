@@ -1,93 +1,79 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+TOPONNN;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TOPONNN&style=for-the-badge&color=8B5CF6" alt="Profile Views"/>
-</p>
+# Hi there! 👋
 
----
+### I'm **TOPONNN**
 
-## About Me
+**Full-Stack Developer**
 
-```yaml
-name: TOPONNN
-role: Full-Stack Developer
-education: Cloud DevOps Frontend & Backend Java Fullstack Developer Camp
-interests:
-  - Web Development
-  - Cloud & DevOps
-  - Music & Technology
-current_project: PLYST - Music Community Platform
-```
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,typescript,mysql,docker,aws,git&theme=dark" />
-</p>
-
-<details>
-<summary><b>More Details</b></summary>
 <br/>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTOPONNN&count_bg=%238B5CF6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://github.com/TOPONNN)
+
+</div>
+
+---
+
+### 🙋‍♂️ About Me
+
+- 🎓 **Cloud DevOps Frontend & Backend Java Fullstack Developer Camp** 수료
+- 🎵 현재 **PLYST** - 음악 커뮤니티 플랫폼 개발 중
+- 🌱 **Java, Spring Boot, React, TypeScript** 학습 중
+- 💡 웹 개발과 클라우드 기술에 관심이 많습니다
+
+---
+
+### 🛠️ Tech Stack
+
 **Backend**
-```
-Java  ·  Spring Boot  ·  Spring Data JPA  ·  WebSocket  ·  MySQL
-```
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Frontend**
-```
-React  ·  TypeScript  ·  Tailwind CSS  ·  Vite
-```
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **DevOps & Tools**
-```
-Docker  ·  AWS EC2  ·  Nginx  ·  Git  ·  GitHub
-```
 
-</details>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Featured Project
+### 🎵 Featured Project
 
 <a href="https://github.com/TOPONNN/PLYST">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TOPONNN&repo=PLYST&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TOPONNN&repo=PLYST&theme=dark&hide_border=true&bg_color=0d1117" />
 </a>
 
-<br/><br/>
+**PLYST** - 음악을 함께 듣고, 공유하고, 소통하는 음악 커뮤니티 플랫폼
 
-> **PLYST** - 음악을 함께 듣고, 공유하고, 소통하는 음악 커뮤니티 플랫폼  
-> 🎵 Playlist Sharing · 🤖 AI Recommendation · 📺 Real-time Station
+- 🎵 플레이리스트 생성 및 공유
+- 🤖 AI 기반 음악 추천
+- 📺 실시간 스테이션 (동시 감상)
+- 💬 소셜 기능 (좋아요, 댓글, 팔로우)
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-plyst.info-8B5CF6?style=for-the-badge)](https://plyst.info/)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TOPONNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6" />
-</p>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-plyst.info-8B5CF6?style=for-the-badge)](https://plyst.info/)
 
 ---
 
-## Activity Graph
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF" />
-</p>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TOPONNN&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
-</p>
+<div align="center">
+  <sub>Made with ❤️ by TOPONNN</sub>
+</div>
