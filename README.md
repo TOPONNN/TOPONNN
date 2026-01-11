@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+TOPONNN;Full-Stack+Developer+from+Seoul;Building+awesome+things+with+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+TOPONNN+%F0%9F%91%8B;Full-Stack+Developer;Building+PLYST+Platform)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,28 +16,13 @@
 
 ## About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Unicorn.png" alt="Unicorn" width="150" />
-
-```javascript
-const TOPONNN = {
-    location: "Seoul, Korea",
-    role: "Full-Stack Developer",
-    education: "Cloud DevOps Fullstack Developer Camp",
-    currentProject: "PLYST - Music Community Platform",
-    
-    skills: {
-        frontend: ["React", "TypeScript", "Tailwind CSS"],
-        backend: ["Java", "Spring Boot", "JPA"],
-        database: ["MySQL"],
-        devops: ["Docker", "AWS", "Nginx"]
-    },
-    
-    hobbies: ["Coding", "Music", "Gaming"],
-    motto: "Code with passion, deploy with confidence!"
-};
-```
-
-<br clear="both"/>
+|  |  |
+|:---|:---|
+| **Location** | Seoul, Korea |
+| **Role** | Full-Stack Developer |
+| **Education** | Cloud DevOps Fullstack Developer Camp |
+| **Current Project** | [PLYST](https://github.com/TOPONNN/PLYST) - Music Community Platform |
+| **Interests** | Coding, Music, Gaming |
 
 ---
 
