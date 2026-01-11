@@ -167,7 +167,6 @@ Spotify + YouTube + OpenAI GPT + Whisper
 <div align="center">
 
 <a href="https://github.com/TOPONNN">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=ffffff"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=ffffff"/>
 </a>
 
@@ -175,45 +174,12 @@ Spotify + YouTube + OpenAI GPT + Whisper
 
 ---
 
-## 2026 Goals
-
-<div align="center">
-
-| Goal | Status | Progress |
-|:---|:---:|:---:|
-| PLYST Platform Launch | DONE | `####################` 100% |
-| Spring Boot Master | IN PROGRESS | `################----` 80% |
-| React Advanced Patterns | IN PROGRESS | `##############------` 70% |
-| AWS Solutions Architect | IN PROGRESS | `##########----------` 50% |
-| Kubernetes Learning | PLANNED | `####----------------` 20% |
-
-</div>
-
----
-
-## Fun Facts
-
-<div align="center">
-
-```
- Night Owl Developer   [####################]  90%
- Coffee Consumption    [######################] 99%
- Music While Coding    [####################]  90%
- Bug Fixing Speed      [###############-----]  65%
- Documentation Skills  [########------------]  40%
-```
-
-</div>
-
 ---
 
 ## Connect with Me
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://github.com/TOPONNN">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
