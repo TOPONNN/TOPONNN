@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+TOPONNN+%F0%9F%91%8B;Full-Stack+Developer;Building+PLYST+Platform)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+TOPONNN+%F0%9F%91%8B;Full-Stack+Developer;Building+PLYST+and+KERO)](https://git.io/typing-svg)
 
 <br/>
 
@@ -21,8 +21,8 @@
 | **Location** | Seoul, Korea |
 | **Role** | Full-Stack Developer |
 | **Education** | Cloud DevOps Fullstack Developer Camp |
-| **Current Project** | [PLYST](https://github.com/TOPONNN/PLYST) - Music Community Platform |
-| **Interests** | Coding, Music |
+| **Current Projects** | [PLYST](https://github.com/TOPONNN/PLYST) - Music Community Platform<br/>[KERO](https://github.com/TOPONNN/KERO) - AI Real-time Karaoke Platform |
+| **Interests** | Coding, Music, AI |
 
 ---
 
@@ -33,6 +33,7 @@
 ### Languages
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -41,6 +42,7 @@
 
 ### Frontend
 <p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
@@ -51,12 +53,26 @@
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/LiveKit-0D9488?style=for-the-badge&logo=webrtc&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 </p>
 
-### Database
+### Database & Cache
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+
+### Message Queue
+<p>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+### AI & ML
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
 ### DevOps & Cloud
@@ -64,6 +80,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
 </p>
 
@@ -81,7 +98,7 @@
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <div align="center">
 
@@ -142,6 +159,66 @@ Spotify + YouTube + OpenAI GPT + Whisper
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-plyst.info-EC4899?style=for-the-badge&labelColor=1a1b27)](https://plyst.info/)
 [![Repository](https://img.shields.io/badge/Source_Code-GitHub-8B5CF6?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/TOPONNN/PLYST)
+
+<br/><br/>
+
+<a href="https://github.com/TOPONNN/KERO">
+<img src="https://img.shields.io/badge/KERO-AI_Real--time_Karaoke-E11D48?style=for-the-badge&labelColor=1a1b27" alt="KERO"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### KERO
+**AI 기반 실시간 온라인 노래방 플랫폼**
+
+Sing together in real-time with AI analysis and vocal separation
+
+<br/>
+
+**Key Features**
+- **Real-time Karaoke** - WebRTC rooms (LiveKit) for up to 6 users + Socket.io sync
+- **Perfect Score** - AI-based pitch analysis and scoring
+- **Vocal/MR Separation** - Mel-Band Roformer-based separation pipeline
+- **Lyrics Sync** - Automatic lyrics synchronization
+- **Quiz Mode** - Interactive music quiz games
+
+</td>
+<td width="50%">
+
+### Tech Stack
+
+**Frontend**
+```
+Next.js 15 + React 19 + TypeScript + LiveKit
+```
+
+**Backend**
+```
+Express + Socket.io + MySQL + Redis + RabbitMQ
+```
+
+**AI/ML**
+```
+Python 3.12 + PyTorch + CUDA
+```
+
+**Infra**
+```
+Docker + AWS + Jenkins
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-kero.ooo-E11D48?style=for-the-badge&labelColor=1a1b27)](https://kero.ooo)
+[![Repository](https://img.shields.io/badge/Source_Code-GitHub-8B5CF6?style=for-the-badge&logo=github&labelColor=1a1b27)](https://github.com/TOPONNN/KERO)
 
 </div>
 
