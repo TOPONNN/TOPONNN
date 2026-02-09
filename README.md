@@ -18,11 +18,11 @@
 
 |  |  |
 |:---|:---|
-| **Location** | Seoul, Korea |
+| **Location** | Yongin, Korea |
 | **Role** | Full-Stack Developer |
 | **Education** | Cloud DevOps Fullstack Developer Camp |
 | **Current Projects** | [PLYST](https://github.com/TOPONNN/PLYST) - Music Community Platform<br/>[KERO](https://github.com/TOPONNN/KERO) - AI Real-time Karaoke Platform |
-| **Interests** | Coding, Music, AI |
+| **Interests** | Coding, Music, Surf The Web |
 
 ---
 
