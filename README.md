@@ -1,210 +1,247 @@
 <div align="right">
-  <a href="#-english-version"><b>EN</b></a>
+  <a href="#-english-version"><code>EN</code></a>
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=200&section=header&text=TOPONNN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer&descSize=18&descAlignY=54&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:E6A8D7,100:C8A2C8&height=200&section=header&text=TOPONNN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=%E2%9C%A8%20Full-Stack%20Developer%20%E2%9C%A8&descSize=16&descAlignY=54&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1500&color=8B5CF6&center=true&vCenter=true&width=480&height=45&lines=%F0%9F%8E%B5+PLYST+%26+%F0%9F%8E%A4+KERO+%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4;%EC%9D%8C%EC%95%85%EC%9D%84+%ED%95%A8%EA%BB%98+%EC%A6%90%EA%B8%B0%EB%8A%94+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EA%B0%9C%EB%B0%9C%EC%9E%90)](https://git.io/typing-svg)
+<br/>
 
-<a href="https://github.com/TOPONNN?tab=followers"><img src="https://img.shields.io/github/followers/TOPONNN?label=Followers&style=flat-square&color=8B5CF6&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=TOPONNN&style=flat-square&color=EC4899&label=Visitors" />
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/dbsgmlwns11@icloud.com-8B5CF6?style=flat-square&logo=apple&logoColor=white" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1500&color=E6A8D7&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%8E%B5+PLYST+%26+%F0%9F%8E%A4+KERO+%EB%A5%BC+%EB%A7%8C%EB%93%A4%EA%B3%A0+%EC%9E%88%EC%96%B4%EC%9A%94+%E2%9C%A8;%EC%9D%8C%EC%95%85%EC%9D%84+%ED%95%A8%EA%BB%98+%EC%A6%90%EA%B8%B0%EB%8A%94+%ED%94%8C%EB%9E%AB%ED%8F%BC+%EA%B0%9C%EB%B0%9C%EC%9E%90+%F0%9F%92%96" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/TOPONNN?tab=followers"><img src="https://img.shields.io/github/followers/TOPONNN?label=Followers&style=for-the-badge&color=FFB6C1&logo=github&logoColor=white&labelColor=E6A8D7" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=TOPONNN&style=for-the-badge&color=C8A2C8&label=Visitors" />
+&nbsp;
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/Mail-dbsgmlwns11@icloud.com-E6A8D7?style=for-the-badge&logo=apple&logoColor=white&labelColor=FFB6C1" /></a>
 
 </div>
 
----
+<br/>
 
-## `whoami`
+## &#x1F338; About Me
 
 ```python
 class TOPONNN:
     role      = "Full-Stack Developer"
-    location  = "Yongin, Korea"
+    location  = "Yongin, Korea 🇰🇷"
     education = "Cloud DevOps Fullstack Developer Camp"
 
     projects  = {
-        "PLYST": "음악 커뮤니티 플랫폼 — 함께 듣고, 공유하고, 소통하기",
-        "KERO": "AI 실시간 온라인 노래방 — 친구들과 함께 노래하기",
+        "PLYST 🎵": "음악 커뮤니티 플랫폼 — 함께 듣고, 공유하고, 소통하기",
+        "KERO 🎤": "AI 실시간 온라인 노래방 — 친구들과 함께 노래하기",
     }
 
-    interests = ["코딩", "음악 감상", "웹 서핑"]
+    interests = ["코딩 💻", "음악 감상 🎧", "웹 서핑 🌐"]
 ```
 
----
+<br/>
 
-<details open>
-<summary><h2>Tech Stack</h2></summary>
+## &#x1F48E; Tech Stack
 
 <div align="center">
 
-**Languages**
+<table>
+<tr><td align="center" width="50%">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**&#x1F4DD; Languages**
 
-**Frontend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+</td><td align="center" width="50%">
 
-**Backend**
+**&#x1F3A8; Frontend**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![LiveKit](https://img.shields.io/badge/LiveKit-0D9488?style=flat-square&logo=webrtc&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
-**Database & Cache**
+</td></tr>
+<tr><td align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+**&#x2699;&#xFE0F; Backend**
 
-**Message Queue**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-0D9488?style=for-the-badge&logo=webrtc&logoColor=white)
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+</td><td align="center">
 
-**AI / ML**
+**&#x1F4BE; Database & Infra**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-**DevOps & Cloud**
+</td></tr>
+<tr><td align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+**&#x1F9E0; AI / ML**
 
-**Tools**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+</td><td align="center">
+
+**&#x1F6E0;&#xFE0F; Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+</td></tr>
+</table>
 
 </div>
-</details>
 
----
+<br/>
 
-<details open>
-<summary><h2>Projects</h2></summary>
+## &#x1F33C; Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">
-  <a href="https://github.com/TOPONNN/PLYST">PLYST</a>
-</h3>
+<div align="center">
 
-<p align="center">
-  <strong>Playlist + List = PLYST</strong><br/>
-  <sub>함께 음악을 듣고, 공유하고, 소통하는 음악 커뮤니티 플랫폼</sub>
-</p>
+### &#x1F3B5; PLYST
+
+<a href="https://github.com/TOPONNN/PLYST">
+  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-E6A8D7?style=for-the-badge&labelColor=FFB6C1" />
+</a>
+
+<br/><br/>
+
+**Playlist + List = PLYST**
+<br/>
+<sub>함께 음악을 듣고, 공유하고, 소통하는 플랫폼</sub>
+
+</div>
 
 &nbsp;
 
-- Spotify 연동 플레이리스트 생성/공유/검색
-- ChatGPT 기반 맞춤형 AI 음악 추천
-- 실시간 동기화 스테이션 및 채팅
-- Whisper AI 실시간 자막 번역
+| 기능 | 설명 |
+|:---:|:---|
+| 🎧 | Spotify 연동 플레이리스트 생성/공유/검색 |
+| 🤖 | ChatGPT 기반 맞춤형 AI 음악 추천 |
+| 📺 | 실시간 동기화 스테이션 및 채팅 |
+| 🌐 | Whisper AI 실시간 자막 번역 |
 
 ```
 React · TypeScript · Spring Boot 3 · JPA
 WebSocket · MySQL · Docker · AWS EC2
 ```
 
-<p align="center">
-  <a href="https://plyst.info/"><img src="https://img.shields.io/badge/plyst.info-EC4899?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/TOPONNN/PLYST"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/✨_plyst.info-FFB6C1?style=for-the-badge&logoColor=white)](https://plyst.info/)
+[![Repo](https://img.shields.io/badge/Source_Code-C8A2C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">
-  <a href="https://github.com/TOPONNN/KERO">KERO</a>
-</h3>
+<div align="center">
 
-<p align="center">
-  <strong>AI 실시간 온라인 노래방</strong><br/>
-  <sub>AI 음성 분석과 보컬 분리 기술로 함께 노래하는 플랫폼</sub>
-</p>
+### &#x1F3A4; KERO
+
+<a href="https://github.com/TOPONNN/KERO">
+  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_노래방-C8A2C8?style=for-the-badge&labelColor=E6A8D7" />
+</a>
+
+<br/><br/>
+
+**AI 실시간 온라인 노래방**
+<br/>
+<sub>AI 음성 분석과 보컬 분리 기술로 함께 노래하는 플랫폼</sub>
+
+</div>
 
 &nbsp;
 
-- WebRTC(LiveKit) 최대 6명 동시 참여
-- AI 기반 음정 분석 및 채점 시스템
-- Mel-Band Roformer 보컬/MR 분리
-- 실시간 가사 싱크 및 퀴즈 모드
+| 기능 | 설명 |
+|:---:|:---|
+| 🎙️ | WebRTC(LiveKit) 최대 6명 동시 참여 |
+| 💯 | AI 기반 음정 분석 및 채점 시스템 |
+| 🎼 | Mel-Band Roformer 보컬/MR 분리 |
+| 🎮 | 실시간 가사 싱크 및 퀴즈 모드 |
 
 ```
 Next.js 15 · React 19 · Express · Socket.io
 Redis · RabbitMQ · PyTorch · Docker
 ```
 
-<p align="center">
-  <a href="https://kero.ooo"><img src="https://img.shields.io/badge/kero.ooo-E11D48?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://github.com/TOPONNN/KERO"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+
+[![Demo](https://img.shields.io/badge/✨_kero.ooo-FFB6C1?style=for-the-badge&logoColor=white)](https://kero.ooo)
+[![Repo](https://img.shields.io/badge/Source_Code-C8A2C8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-</details>
+<br/>
 
----
-
-<details open>
-<summary><h2>GitHub Stats</h2></summary>
+## &#x1F4CA; GitHub Stats
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&ring_color=8B5CF6&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E6A8D7&icon_color=FFB6C1&text_color=c9d1d9&ring_color=C8A2C8&locale=ko" />
 &nbsp;
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=0d1117&title_color=E6A8D7&text_color=c9d1d9&locale=ko" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&theme=tokyonight&hide_border=true&background=0d1117&stroke=8B5CF6&ring=8B5CF6&fire=EC4899&currStreakLabel=EC4899&locale=ko" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=0d1117&stroke=C8A2C8&ring=E6A8D7&fire=FFB6C1&currStreakLabel=FFB6C1&sideLabels=E6A8D7&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555&locale=ko" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&area_color=8B5CF6" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&hide_border=true&bg_color=0d1117&color=E6A8D7&line=FFB6C1&point=ffffff&area=true&area_color=C8A2C8" width="95%" />
 
 </div>
-</details>
 
----
+<br/>
 
-## Contact
+## &#x1F48C; Contact
 
 <div align="center">
 
 <a href="https://github.com/TOPONNN"><img src="https://img.shields.io/badge/GitHub-TOPONNN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud-dbsgmlwns11@icloud.com-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-E6A8D7?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Hearts.png" width="40" />
 
 **방문해 주셔서 감사합니다!**
+<br/>
+<sub>Have a lovely day! &#x1F338;</sub>
 
 </div>
 
@@ -235,8 +272,8 @@ class TOPONNN:
 
 | Project | Description | Stack | Link |
 |:--------|:-----------|:------|:-----|
-| **PLYST** | Music community platform for sharing and enjoying music together | React · Spring Boot 3 · WebSocket · MySQL · AWS | [![Demo](https://img.shields.io/badge/plyst.info-EC4899?style=flat-square&logo=googlechrome&logoColor=white)](https://plyst.info/) [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST) |
-| **KERO** | AI real-time karaoke with vocal separation & pitch scoring | Next.js 15 · Express · Socket.io · PyTorch · Docker | [![Demo](https://img.shields.io/badge/kero.ooo-E11D48?style=flat-square&logo=googlechrome&logoColor=white)](https://kero.ooo) [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO) |
+| **PLYST** | Music community for sharing and enjoying music together | React · Spring Boot 3 · WebSocket · MySQL · AWS | [![Demo](https://img.shields.io/badge/plyst.info-FFB6C1?style=flat-square)](https://plyst.info/) [![Repo](https://img.shields.io/badge/Source-C8A2C8?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST) |
+| **KERO** | AI karaoke with vocal separation & pitch scoring | Next.js 15 · Express · Socket.io · PyTorch · Docker | [![Demo](https://img.shields.io/badge/kero.ooo-FFB6C1?style=flat-square)](https://kero.ooo) [![Repo](https://img.shields.io/badge/Source-C8A2C8?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO) |
 
 <br/>
 
@@ -244,12 +281,12 @@ class TOPONNN:
 
 <a href="https://github.com/TOPONNN"><img src="https://img.shields.io/badge/GitHub-TOPONNN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud-dbsgmlwns11@icloud.com-8B5CF6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-E6A8D7?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
 <br/><br/>
 
-**Thanks for visiting! Have a great day!**
+**Thanks for visiting! Have a lovely day! &#x1F338;**
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,100:8B5CF6&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8A2C8,50:E6A8D7,100:FFB6C1&height=100&section=footer" width="100%" />
