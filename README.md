@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=TOPONNN&fontSize=60&fontColor=000000&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=22&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=520&height=50&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jua&weight=400&size=24&duration=3000&pause=1500&color=0066FF&center=true&vCenter=true&width=520&height=50&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
 </a>
 
 <br/>
