@@ -141,6 +141,7 @@ class TOPONNN:
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<div align="center"><img width="441" height="1" /></div>
 
 <div align="center">
 
@@ -182,6 +183,7 @@ Spotify · YouTube · OpenAI GPT · Whisper
 
 </td>
 <td width="50%" valign="top">
+<div align="center"><img width="441" height="1" /></div>
 
 <div align="center">
 
