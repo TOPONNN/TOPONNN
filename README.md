@@ -4,19 +4,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A5C8,50:B8A9D6,100:A5B4CF&height=200&section=header&text=TOPONNN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B8EC8,50:8B8FB0,100:6E7FA8&height=200&section=header&text=TOPONNN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1500&color=B8A9D6&center=true&vCenter=true&width=520&height=50&lines=%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%83%81%EC%83%81%EC%9D%84+%ED%98%84%EC%8B%A4%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E2%9C%A8;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=8B8FB0&center=true&vCenter=true&width=520&height=50&lines=%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%83%81%EC%83%81%EC%9D%84+%ED%98%84%EC%8B%A4%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E2%9C%A8;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
 </a>
 
 <br/>
 
-<a href="https://github.com/TOPONNN?tab=followers"><img src="https://img.shields.io/github/followers/TOPONNN?label=Followers&style=for-the-badge&color=D4A5C8&logo=github&logoColor=white&labelColor=B8A9D6" /></a>
+<a href="https://github.com/TOPONNN?tab=followers"><img src="https://img.shields.io/github/followers/TOPONNN?label=Followers&style=for-the-badge&color=7B8EC8&logo=github&logoColor=white&labelColor=8B8FB0" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=TOPONNN&style=for-the-badge&color=A5B4CF&label=Visitors" />
+<img src="https://komarev.com/ghpvc/?username=TOPONNN&style=for-the-badge&color=6E7FA8&label=Visitors" />
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/dbsgmlwns11@icloud.com-B8A9D6?style=for-the-badge&logo=apple&logoColor=white&labelColor=D4A5C8" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/dbsgmlwns11@icloud.com-8B8FB0?style=for-the-badge&logo=apple&logoColor=white&labelColor=7B8EC8" /></a>
 
 </div>
 
@@ -111,6 +111,7 @@ class TOPONNN:
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 
 </td></tr>
@@ -124,6 +125,7 @@ class TOPONNN:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 </td></tr>
 </table>
@@ -145,7 +147,7 @@ class TOPONNN:
 ### &#x1F3B5; PLYST
 
 <a href="https://github.com/TOPONNN/PLYST">
-  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-B8A9D6?style=for-the-badge&labelColor=D4A5C8" width="100%" />
+  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-8B8FB0?style=for-the-badge&labelColor=7B8EC8" width="100%" />
 </a>
 
 <br/><br/>
@@ -170,12 +172,13 @@ class TOPONNN:
 React 18 · TypeScript · Vite · Tailwind · Shadcn UI
 Spring Boot 3 · JPA · WebSocket · STOMP.js
 MySQL · Docker · AWS EC2 · Nginx
+Spotify · YouTube · OpenAI GPT · Whisper
 ```
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/✨_plyst.info-D4A5C8?style=for-the-badge&logoColor=white)](https://plyst.info/)
-[![Repo](https://img.shields.io/badge/Source_Code-A5B4CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST)
+[![Demo](https://img.shields.io/badge/✨_plyst.info-7B8EC8?style=for-the-badge&logoColor=white)](https://plyst.info/)
+[![Repo](https://img.shields.io/badge/Source_Code-6E7FA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST)
 
 </div>
 
@@ -187,7 +190,7 @@ MySQL · Docker · AWS EC2 · Nginx
 ### &#x1F3A4; KERO
 
 <a href="https://github.com/TOPONNN/KERO">
-  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_노래방-A5B4CF?style=for-the-badge&labelColor=B8A9D6" width="100%" />
+  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_노래방-6E7FA8?style=for-the-badge&labelColor=8B8FB0" width="100%" />
 </a>
 
 <br/><br/>
@@ -212,13 +215,13 @@ MySQL · Docker · AWS EC2 · Nginx
 Next.js 15 · React 19 · Redux Toolkit
 Express · Socket.io · TypeORM · LiveKit
 Redis · RabbitMQ · PyTorch · CUDA
-Docker · AWS EC2 · S3 · Jenkins · ELK
+Docker · AWS EC2 · S3 · Jenkins · ELK Stack
 ```
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/✨_kero.ooo-D4A5C8?style=for-the-badge&logoColor=white)](https://kero.ooo)
-[![Repo](https://img.shields.io/badge/Source_Code-A5B4CF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO)
+[![Demo](https://img.shields.io/badge/✨_kero.ooo-7B8EC8?style=for-the-badge&logoColor=white)](https://kero.ooo)
+[![Repo](https://img.shields.io/badge/Source_Code-6E7FA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO)
 
 </div>
 
@@ -235,17 +238,17 @@ Docker · AWS EC2 · S3 · Jenkins · ELK
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=B8A9D6&icon_color=D4A5C8&text_color=c9d1d9&ring_color=A5B4CF&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B8FB0&icon_color=7B8EC8&text_color=c9d1d9&ring_color=6E7FA8&locale=ko" />
 &nbsp;
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=0d1117&title_color=B8A9D6&text_color=c9d1d9&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B8FB0&text_color=c9d1d9&locale=ko" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=0d1117&stroke=A5B4CF&ring=B8A9D6&fire=D4A5C8&currStreakLabel=D4A5C8&sideLabels=B8A9D6&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555&locale=ko" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=0d1117&stroke=6E7FA8&ring=8B8FB0&fire=7B8EC8&currStreakLabel=7B8EC8&sideLabels=8B8FB0&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555&locale=ko" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&hide_border=true&bg_color=0d1117&color=B8A9D6&line=D4A5C8&point=ffffff&area=true&area_color=A5B4CF" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&hide_border=true&bg_color=0d1117&color=8B8FB0&line=7B8EC8&point=ffffff&area=true&area_color=6E7FA8" width="95%" />
 
 </div>
 </details>
@@ -258,7 +261,7 @@ Docker · AWS EC2 · S3 · Jenkins · ELK
 
 <a href="https://github.com/TOPONNN"><img src="https://img.shields.io/badge/GitHub-TOPONNN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-B8A9D6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-8B8FB0?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -295,8 +298,8 @@ class TOPONNN:
 
 | Project | Description | Stack | Link |
 |:--------|:-----------|:------|:-----|
-| **PLYST** | Music community for sharing and enjoying music together | React · Spring Boot 3 · WebSocket · MySQL · AWS | [![Demo](https://img.shields.io/badge/plyst.info-D4A5C8?style=flat-square)](https://plyst.info/) [![Repo](https://img.shields.io/badge/Source-A5B4CF?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST) |
-| **KERO** | AI karaoke with vocal separation & pitch scoring | Next.js 15 · Express · Socket.io · PyTorch · Docker | [![Demo](https://img.shields.io/badge/kero.ooo-D4A5C8?style=flat-square)](https://kero.ooo) [![Repo](https://img.shields.io/badge/Source-A5B4CF?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO) |
+| **PLYST** | Music community for sharing and enjoying music together | React · Spring Boot 3 · WebSocket · MySQL · AWS | [![Demo](https://img.shields.io/badge/plyst.info-7B8EC8?style=flat-square)](https://plyst.info/) [![Repo](https://img.shields.io/badge/Source-6E7FA8?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST) |
+| **KERO** | AI karaoke with vocal separation & pitch scoring | Next.js 15 · Express · Socket.io · PyTorch · Docker | [![Demo](https://img.shields.io/badge/kero.ooo-7B8EC8?style=flat-square)](https://kero.ooo) [![Repo](https://img.shields.io/badge/Source-6E7FA8?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO) |
 
 <br/>
 
@@ -304,7 +307,7 @@ class TOPONNN:
 
 <a href="https://github.com/TOPONNN"><img src="https://img.shields.io/badge/GitHub-TOPONNN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-B8A9D6?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-8B8FB0?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -312,4 +315,4 @@ class TOPONNN:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A5B4CF,50:B8A9D6,100:D4A5C8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7FA8,50:8B8FB0,100:7B8EC8&height=100&section=footer" width="100%" />
