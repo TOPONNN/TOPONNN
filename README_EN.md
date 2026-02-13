@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="https://github.com/TOPONNN/TOPONNN/blob/main/README_EN.md"><code>EN</code></a>
+  <a href="https://github.com/TOPONNN/TOPONNN/blob/main/README.md"><code>KR</code></a>
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=TOPONNN&fontSize=60&fontColor=000000&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=22&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=520&height=50&lines=%EA%BE%B8%EC%A4%80%ED%9E%88+%EB%B0%B0%EC%9A%B0%EA%B3%A0+%EC%84%B1%EC%9E%A5%ED%95%98%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=22&duration=3000&pause=1500&color=000000&center=true&vCenter=true&width=520&height=50&lines=Always+learning%2C+always+growing;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
 </a>
 
 <br/>
@@ -27,15 +27,15 @@
 ```python
 class TOPONNN:
     role      = "Full-Stack Developer"
-    location  = "Yongin, Korea 🇰🇷"
+    location  = "Yongin, Korea"
     education = "Cloud DevOps Fullstack Developer Camp"
 
     projects  = {
-        "PLYST 🎵": "음악 커뮤니티 플랫폼 — 함께 듣고, 공유하고, 소통하기",
-        "KERO 🎤": "AI 실시간 온라인 노래방 — 친구들과 함께 노래하기",
+        "PLYST": "Music community platform — listen, share, and connect together",
+        "KERO": "AI real-time online karaoke — sing with friends",
     }
 
-    interests = ["코딩 💻", "음악 감상 🎧", "웹 서핑 🌐"]
+    interests = ["Coding", "Music", "Exploring the Web"]
 ```
 
 ---
@@ -146,24 +146,24 @@ class TOPONNN:
 <div align="center">
 
 <a href="https://github.com/TOPONNN/PLYST">
-  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
+  <img src="https://img.shields.io/badge/🎵_PLYST-Music_Community_Platform-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
 </a>
 
 <br/><br/>
 
 **Playlist + List = PLYST**
 <br/>
-<sub>함께 음악을 듣고, 공유하고, 소통하는 플랫폼</sub>
+<sub>A platform where you listen, share, and connect through music</sub>
 
 </div>
 
 <br/>
 
-- 🎧 Spotify 연동 플레이리스트 생성·공유·검색
-- 🤖 ChatGPT 기반 맞춤형 AI 음악 추천
-- 📺 YouTube MV 실시간 동기화·스테이션·채팅
-- 🌐 Whisper AI 실시간 자막 번역
-- 🔐 Google·Kakao 소셜 로그인·JWT 인증
+- 🎧 Spotify-powered playlist creation, sharing & search
+- 🤖 ChatGPT-based personalized AI music recommendations
+- 📺 YouTube MV real-time sync station with live chat
+- 🌐 Whisper AI real-time subtitle translation
+- 🔐 Google · Kakao social login with JWT auth
 
 ```
 React 18 · TypeScript · Vite · Tailwind
@@ -186,24 +186,24 @@ Spotify · YouTube · OpenAI GPT · Whisper
 <div align="center">
 
 <a href="https://github.com/TOPONNN/KERO">
-  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_온라인_노래방-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
+  <img src="https://img.shields.io/badge/🎤_KERO-AI_Real--time_Online_Karaoke-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
 </a>
 
 <br/><br/>
 
-**AI 실시간 온라인 노래방**
+**AI Real-time Online Karaoke**
 <br/>
-<sub>AI 음성 분석과 보컬 분리로 함께 노래하는 플랫폼</sub>
+<sub>Sing together with AI voice analysis and vocal separation</sub>
 
 </div>
 
 <br/>
 
-- 🎙️ WebRTC(LiveKit) 최대 6명 동시 참여
-- 💯 AI 기반 음정 분석(FCPE)·채점 시스템
-- 🎼 Mel-Band Roformer 보컬/MR 분리
-- 📝 SOFA 기반 가사 자동 정렬·싱크
-- 🎮 일반·퍼펙트 스코어·노래 퀴즈 모드
+- 🎙️ WebRTC (LiveKit) up to 6 simultaneous participants
+- 💯 AI pitch analysis (FCPE) with scoring system
+- 🎼 Mel-Band Roformer vocal/MR separation
+- 📝 SOFA-based automatic lyric alignment & sync
+- 🎮 Normal · Perfect Score · Song Quiz modes
 
 ```
 Next.js 15 · React 19 · Redux Toolkit
@@ -232,13 +232,13 @@ Docker · AWS EC2 · S3 · Jenkins · ELK
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&ring_color=000000&locale=en" />
 &nbsp;
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&locale=en" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&sideNums=000000&currStreakNum=000000&dates=000000&locale=ko" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=ffffff&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&sideNums=000000&currStreakNum=000000&dates=000000&locale=en" />
 
 <br/>
 
@@ -261,6 +261,6 @@ Docker · AWS EC2 · S3 · Jenkins · ELK
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="36" />
 
-**방문해 주셔서 감사합니다!**
+**Thanks for visiting! Have a great day!**
 
 </div>
