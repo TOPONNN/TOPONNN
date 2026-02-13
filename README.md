@@ -4,19 +4,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B8EC8,50:8B8FB0,100:6E7FA8&height=200&section=header&text=TOPONNN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BDB,50:8E9DD6,100:B4A0D6&height=200&section=header&text=TOPONNN&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=8B8FB0&center=true&vCenter=true&width=520&height=50&lines=%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%83%81%EC%83%81%EC%9D%84+%ED%98%84%EC%8B%A4%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E2%9C%A8;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=22&duration=3000&pause=1500&color=8E9DD6&center=true&vCenter=true&width=520&height=50&lines=%EC%BD%94%EB%93%9C%EB%A1%9C+%EC%83%81%EC%83%81%EC%9D%84+%ED%98%84%EC%8B%A4%EB%A1%9C+%EB%A7%8C%EB%93%9C%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%E2%9C%A8;PLYST+%F0%9F%8E%B5+%7C+KERO+%F0%9F%8E%A4" />
 </a>
 
 <br/>
 
-<a href="https://github.com/TOPONNN?tab=followers"><img src="https://img.shields.io/github/followers/TOPONNN?label=Followers&style=for-the-badge&color=7B8EC8&logo=github&logoColor=white&labelColor=8B8FB0" /></a>
+<a href="https://github.com/TOPONNN?tab=followers"><img src="https://img.shields.io/github/followers/TOPONNN?label=Followers&style=for-the-badge&color=A78BDB&logo=github&logoColor=white&labelColor=8E9DD6" /></a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=TOPONNN&style=for-the-badge&color=6E7FA8&label=Visitors" />
+<img src="https://komarev.com/ghpvc/?username=TOPONNN&style=for-the-badge&color=B4A0D6&label=Visitors" />
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/dbsgmlwns11@icloud.com-8B8FB0?style=for-the-badge&logo=apple&logoColor=white&labelColor=7B8EC8" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/dbsgmlwns11@icloud.com-8E9DD6?style=for-the-badge&logo=apple&logoColor=white&labelColor=A78BDB" /></a>
 
 </div>
 
@@ -138,7 +138,7 @@ class TOPONNN:
 <details open>
 <summary><h2>&#x1F680; Projects</h2></summary>
 
-<table width="100%">
+<table style="table-layout:fixed;" width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -147,7 +147,7 @@ class TOPONNN:
 ### &#x1F3B5; PLYST
 
 <a href="https://github.com/TOPONNN/PLYST">
-  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-8B8FB0?style=for-the-badge&labelColor=7B8EC8" width="100%" />
+  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-8E9DD6?style=for-the-badge&labelColor=A78BDB" width="100%" />
 </a>
 
 <br/><br/>
@@ -158,18 +158,18 @@ class TOPONNN:
 
 </div>
 
-&nbsp;
+<br/>
 
-| 기능 | 설명 |
+| | 기능 |
 |:---:|:---|
 | 🎧 | Spotify 연동 플레이리스트 생성 · 공유 · 검색 |
 | 🤖 | ChatGPT 기반 맞춤형 AI 음악 추천 |
-| 📺 | YouTube MV 실시간 동기화 스테이션 및 채팅 |
+| 📺 | YouTube MV 실시간 동기화 스테이션 · 채팅 |
 | 🌐 | Whisper AI 실시간 자막 번역 |
-| 🔐 | Google · Kakao 소셜 로그인 및 JWT 인증 |
+| 🔐 | Google · Kakao 소셜 로그인 · JWT 인증 |
 
 ```
-React 18 · TypeScript · Vite · Tailwind · Shadcn UI
+React 18 · TypeScript · Vite · Tailwind
 Spring Boot 3 · JPA · WebSocket · STOMP.js
 MySQL · Docker · AWS EC2 · Nginx
 Spotify · YouTube · OpenAI GPT · Whisper
@@ -177,8 +177,8 @@ Spotify · YouTube · OpenAI GPT · Whisper
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/✨_plyst.info-7B8EC8?style=for-the-badge&logoColor=white)](https://plyst.info/)
-[![Repo](https://img.shields.io/badge/Source_Code-6E7FA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST)
+[![Demo](https://img.shields.io/badge/✨_plyst.info-A78BDB?style=for-the-badge&logoColor=white)](https://plyst.info/)
+[![Repo](https://img.shields.io/badge/Source_Code-B4A0D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST)
 
 </div>
 
@@ -190,38 +190,38 @@ Spotify · YouTube · OpenAI GPT · Whisper
 ### &#x1F3A4; KERO
 
 <a href="https://github.com/TOPONNN/KERO">
-  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_노래방-6E7FA8?style=for-the-badge&labelColor=8B8FB0" width="100%" />
+  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_노래방-B4A0D6?style=for-the-badge&labelColor=8E9DD6" width="100%" />
 </a>
 
 <br/><br/>
 
 **AI 실시간 온라인 노래방**
 <br/>
-<sub>AI 음성 분석과 보컬 분리 기술로 함께 노래하는 플랫폼</sub>
+<sub>AI 음성 분석과 보컬 분리로 함께 노래하는 플랫폼</sub>
 
 </div>
 
-&nbsp;
+<br/>
 
-| 기능 | 설명 |
+| | 기능 |
 |:---:|:---|
 | 🎙️ | WebRTC(LiveKit) 최대 6명 동시 참여 |
-| 💯 | AI 기반 음정 분석(FCPE) 및 채점 시스템 |
+| 💯 | AI 기반 음정 분석(FCPE) · 채점 시스템 |
 | 🎼 | Mel-Band Roformer 보컬/MR 분리 |
-| 📝 | SOFA 기반 가사 자동 정렬 및 싱크 |
+| 📝 | SOFA 기반 가사 자동 정렬 · 싱크 |
 | 🎮 | 일반 · 퍼펙트 스코어 · 노래 퀴즈 모드 |
 
 ```
 Next.js 15 · React 19 · Redux Toolkit
 Express · Socket.io · TypeORM · LiveKit
 Redis · RabbitMQ · PyTorch · CUDA
-Docker · AWS EC2 · S3 · Jenkins · ELK Stack
+Docker · AWS EC2 · S3 · Jenkins · ELK
 ```
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/✨_kero.ooo-7B8EC8?style=for-the-badge&logoColor=white)](https://kero.ooo)
-[![Repo](https://img.shields.io/badge/Source_Code-6E7FA8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO)
+[![Demo](https://img.shields.io/badge/✨_kero.ooo-A78BDB?style=for-the-badge&logoColor=white)](https://kero.ooo)
+[![Repo](https://img.shields.io/badge/Source_Code-B4A0D6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO)
 
 </div>
 
@@ -238,17 +238,17 @@ Docker · AWS EC2 · S3 · Jenkins · ELK Stack
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B8FB0&icon_color=7B8EC8&text_color=c9d1d9&ring_color=6E7FA8&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TOPONNN&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8E9DD6&icon_color=A78BDB&text_color=c9d1d9&ring_color=B4A0D6&locale=ko" />
 &nbsp;
-<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=0d1117&title_color=8B8FB0&text_color=c9d1d9&locale=ko" />
+<img height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TOPONNN&layout=compact&hide_border=true&bg_color=0d1117&title_color=8E9DD6&text_color=c9d1d9&locale=ko" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=0d1117&stroke=6E7FA8&ring=8B8FB0&fire=7B8EC8&currStreakLabel=7B8EC8&sideLabels=8B8FB0&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555&locale=ko" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TOPONNN&hide_border=true&background=0d1117&stroke=B4A0D6&ring=8E9DD6&fire=A78BDB&currStreakLabel=A78BDB&sideLabels=8E9DD6&sideNums=c9d1d9&currStreakNum=c9d1d9&dates=555555&locale=ko" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&hide_border=true&bg_color=0d1117&color=8B8FB0&line=7B8EC8&point=ffffff&area=true&area_color=6E7FA8" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TOPONNN&hide_border=true&bg_color=0d1117&color=8E9DD6&line=A78BDB&point=ffffff&area=true&area_color=B4A0D6" width="95%" />
 
 </div>
 </details>
@@ -261,7 +261,7 @@ Docker · AWS EC2 · S3 · Jenkins · ELK Stack
 
 <a href="https://github.com/TOPONNN"><img src="https://img.shields.io/badge/GitHub-TOPONNN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-8B8FB0?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-8E9DD6?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -298,8 +298,8 @@ class TOPONNN:
 
 | Project | Description | Stack | Link |
 |:--------|:-----------|:------|:-----|
-| **PLYST** | Music community for sharing and enjoying music together | React · Spring Boot 3 · WebSocket · MySQL · AWS | [![Demo](https://img.shields.io/badge/plyst.info-7B8EC8?style=flat-square)](https://plyst.info/) [![Repo](https://img.shields.io/badge/Source-6E7FA8?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST) |
-| **KERO** | AI karaoke with vocal separation & pitch scoring | Next.js 15 · Express · Socket.io · PyTorch · Docker | [![Demo](https://img.shields.io/badge/kero.ooo-7B8EC8?style=flat-square)](https://kero.ooo) [![Repo](https://img.shields.io/badge/Source-6E7FA8?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO) |
+| **PLYST** | Music community for sharing and enjoying music together | React · Spring Boot 3 · WebSocket · MySQL · AWS | [![Demo](https://img.shields.io/badge/plyst.info-A78BDB?style=flat-square)](https://plyst.info/) [![Repo](https://img.shields.io/badge/Source-B4A0D6?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST) |
+| **KERO** | AI karaoke with vocal separation & pitch scoring | Next.js 15 · Express · Socket.io · PyTorch · Docker | [![Demo](https://img.shields.io/badge/kero.ooo-A78BDB?style=flat-square)](https://kero.ooo) [![Repo](https://img.shields.io/badge/Source-B4A0D6?style=flat-square&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO) |
 
 <br/>
 
@@ -307,7 +307,7 @@ class TOPONNN:
 
 <a href="https://github.com/TOPONNN"><img src="https://img.shields.io/badge/GitHub-TOPONNN-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-8B8FB0?style=for-the-badge&logo=apple&logoColor=white" /></a>
+<a href="mailto:dbsgmlwns11@icloud.com"><img src="https://img.shields.io/badge/iCloud_Mail-8E9DD6?style=for-the-badge&logo=apple&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -315,4 +315,4 @@ class TOPONNN:
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E7FA8,50:8B8FB0,100:7B8EC8&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B4A0D6,50:8E9DD6,100:A78BDB&height=100&section=footer" width="100%" />
