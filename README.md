@@ -41,7 +41,7 @@ class TOPONNN:
 ---
 
 <details open>
-<summary><h2>&#x1F48E; Tech Stack</h2></summary>
+<summary><h2>&#x1F6E0;&#xFE0F; Tech Stack</h2></summary>
 
 <div align="center">
 
@@ -136,7 +136,7 @@ class TOPONNN:
 ---
 
 <details open>
-<summary><h2>&#x1F680; Projects</h2></summary>
+<summary><h2>&#x1F4C2; Projects</h2></summary>
 
 <table width="100%">
 <tr>
@@ -145,14 +145,7 @@ class TOPONNN:
 
 <div align="center">
 
-<a href="https://github.com/TOPONNN/PLYST">
-  <img src="https://img.shields.io/badge/🎵_PLYST-음악_커뮤니티_플랫폼-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
-</a>
-
-<br/><br/>
-
-**Playlist + List = PLYST**
-<br/>
+### 🎵 PLYST
 <sub>함께 음악을 듣고, 공유하고, 소통하는 플랫폼</sub>
 
 </div>
@@ -185,14 +178,7 @@ Spotify · YouTube · OpenAI GPT · Whisper
 
 <div align="center">
 
-<a href="https://github.com/TOPONNN/KERO">
-  <img src="https://img.shields.io/badge/🎤_KERO-AI_실시간_온라인_노래방-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
-</a>
-
-<br/><br/>
-
-**AI 실시간 온라인 노래방**
-<br/>
+### 🎤 KERO
 <sub>AI 음성 분석과 보컬 분리로 함께 노래하는 플랫폼</sub>
 
 </div>

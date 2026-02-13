@@ -41,7 +41,7 @@ class TOPONNN:
 ---
 
 <details open>
-<summary><h2>&#x1F48E; Tech Stack</h2></summary>
+<summary><h2>&#x1F6E0;&#xFE0F; Tech Stack</h2></summary>
 
 <div align="center">
 
@@ -136,7 +136,7 @@ class TOPONNN:
 ---
 
 <details open>
-<summary><h2>&#x1F680; Projects</h2></summary>
+<summary><h2>&#x1F4C2; Projects</h2></summary>
 
 <table width="100%">
 <tr>
@@ -145,14 +145,7 @@ class TOPONNN:
 
 <div align="center">
 
-<a href="https://github.com/TOPONNN/PLYST">
-  <img src="https://img.shields.io/badge/🎵_PLYST-Music_Community_Platform-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
-</a>
-
-<br/><br/>
-
-**Playlist + List = PLYST**
-<br/>
+### 🎵 PLYST
 <sub>A platform where you listen, share, and connect through music</sub>
 
 </div>
@@ -185,14 +178,7 @@ Spotify · YouTube · OpenAI GPT · Whisper
 
 <div align="center">
 
-<a href="https://github.com/TOPONNN/KERO">
-  <img src="https://img.shields.io/badge/🎤_KERO-AI_Real--time_Online_Karaoke-ffffff?style=for-the-badge&labelColor=000000" width="100%" />
-</a>
-
-<br/><br/>
-
-**AI Real-time Online Karaoke**
-<br/>
+### 🎤 KERO
 <sub>Sing together with AI voice analysis and vocal separation</sub>
 
 </div>
