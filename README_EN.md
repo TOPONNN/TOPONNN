@@ -167,7 +167,7 @@ Spotify · YouTube · OpenAI GPT · Whisper
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/✨_plyst.info-000000?style=for-the-badge&logoColor=white)](https://plyst.info/)
+[![Demo](https://img.shields.io/badge/✨_plyst.topon.dev-000000?style=for-the-badge&logoColor=white)](https://plyst.topon.dev/)
 [![Repo](https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/PLYST)
 
 </div>
@@ -200,7 +200,7 @@ Docker · AWS EC2 · S3 · Jenkins · ELK
 
 <div align="center">
 
-[![Demo](https://img.shields.io/badge/✨_kero.ooo-000000?style=for-the-badge&logoColor=white)](https://kero.ooo)
+[![Demo](https://img.shields.io/badge/✨_kero.topon.dev-000000?style=for-the-badge&logoColor=white)](https://kero.topon.dev)
 [![Repo](https://img.shields.io/badge/Source_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TOPONNN/KERO)
 
 </div>
